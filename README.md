@@ -57,4 +57,4 @@
 
 <h2>You can find me at instagram, though I am a really low-profile person. Really friendly and open, nonetheless! 😋 @danilomovio</h2>
 <h1 align="center">Thank you for your visit!</h1>
-<center><img src="douma2.png" width="211" height="296" style="border-radius:30%" alt="Douma"/></center>
+<p align="center"><img src="douma2.png" width="211" height="296" style="border-radius:30%" alt="Douma"/></p>
