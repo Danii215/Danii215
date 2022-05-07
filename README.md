@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/> 
 
 <h1> 🌹 Welcome to my profile! I am Danilo Movio.</h1>
-<hr/>
 <p>About me:</p>
 <ul>
     <li>🎓 Computer Science student at UNIP - Ribeirão Preto, São Paulo, Brazil (2022-2025).</li>
