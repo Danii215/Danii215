@@ -24,8 +24,8 @@
     </tr>
 </table>
 <hr/>
-<h1>Interests...</h1>
-<table border>
+<h1 align="center">Interests...</h1>
+<table border align="center">
     <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" alt="PHP"/></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50px" alt="Ruby"/></td>
@@ -52,7 +52,7 @@
     </tr>
 </table>
 <hr/>
-<h1>More about me?!</h1>
+<h1 align="center">More about me?!</h1>
 <p>I began coding LUA 🌑 at 13. I got interested in computer science and software development (hardware knowledge as well) since the age of 8, and I know how to use a computer since the age of 4 🤯. I always wanted to know more about how the 🌎 world itself works and how sometimes it can even be compared to how a machine interprets code 🖥️, so I always liked natural physics and mathematics. I am, at my college, class representative, passionate with learning more and more about ALL sorts of stuff! 🤗
 
 <h2>You can find me at instagram, though I am a really low-profile person. Really friendly and open, nonetheless! 😋 @danilomovio</h2>
