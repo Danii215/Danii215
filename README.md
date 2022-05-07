@@ -56,6 +56,5 @@
 <p>I began coding LUA 🌑 at 13. I got interested in computer science and software development (hardware knowledge as well) since the age of 8, and I know how to use a computer since the age of 4 🤯. I always wanted to know more about how the 🌎 world itself works and how sometimes it can even be compared to how a machine interprets code 🖥️, so I always liked natural physics and mathematics. I am, at my college, class representative, passionate with learning more and more about ALL sorts of stuff! 🤗
 
 <h2>You can find me at instagram, though I am a really low-profile person. Really friendly and open, nonetheless! 😋 @danilomovio</h2>
-<hr/>
 <h1 align="center">Thank you for your visit!</h1>
 <img src="douma2.png" style="display: block; margin: 0 auto;" width="211" height="296" style="border-radius:30%" alt="Douma"/>
