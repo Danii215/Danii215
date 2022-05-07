@@ -1,7 +1,7 @@
 <img src="douma.png" align="right" width="211" height="296" style="border-radius:30%" alt="Douma"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/> 
 
-<font size="6"> 🌹 Welcome to my profile! I am Danilo Movio.</font>
+<h1> 🌹 Welcome to my profile! I am Danilo Movio.</h1>
 <hr/>
 <p>About me:</p>
 <ul>
