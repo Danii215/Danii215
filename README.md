@@ -10,19 +10,29 @@
 </ul>
 <h1>Current skills!</h1>
 <table border>
-    <tr>
-        <td colspan="4"><h2>Front-End:</h2></td>
-        <td colspan="2"><h2>Back-End:</h2></td>
-    </tr>
-    <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50px"/></td>
-    </tr>
+    <thead>
+        <tr>
+            <td colspan="4"><h2>Front-End:</h2></td>
+            <td colspan="2"><h2>Back-End:</h2></td>
+            <td colspan="4"><h2>Tools:</h2></td>
+        </tr>
+    </thead>
+    <tmain>
+        <tr>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50px"/></td>
+        </tr>
+    </tmain>
 </table>
+<small>Special thanks to devicon.dev for the icons!</small>
 <hr/>
 <h1 align="center">Interests...</h1>
 <table border align="center">
