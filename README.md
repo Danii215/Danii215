@@ -14,7 +14,6 @@
         <tr>
             <td colspan="4"><h2>Front-End:</h2></td>
             <td colspan="2"><h2>Back-End:</h2></td>
-            <td colspan="4"><h2>Tools:</h2></td>
         </tr>
     </thead>
     <tmain>
@@ -25,10 +24,6 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px"/></td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/></td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50px"/></td>
         </tr>
     </tmain>
 </table>
