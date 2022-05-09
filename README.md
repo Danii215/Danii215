@@ -1,4 +1,4 @@
-<img src="douma.png" align="right" width="211" height="296" style="border-radius:30%" alt="Douma"/>
+<img src="douma.png" align="right" width="211" height="296" style="border-radius:30%" alt="Douma" title="Douma, one of my favorite characters."/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/> 
 
 <h1> 🌹 Welcome to my profile! I am Danilo Movio.</h1>
@@ -18,12 +18,12 @@
     </thead>
     <tmain>
         <tr>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50px"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" alt="HTML5" title="HTML5"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" alt="CSS3" title="CSS3"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" alt="Javascript" title="Javascript"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px" alt="Bootstrap" title="Bootstrap"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" alt="Python" title="Python"/></td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50px" alt="Lua" title="Lua"/></td>
         </tr>
     </tmain>
 </table>
@@ -32,28 +32,28 @@
 <h1 align="center">Interests...</h1>
 <table border align="center">
     <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" alt="PHP"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50px" alt="Ruby"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50px" alt="Matlab"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50px" alt="MongoDB"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50px" alt="GO"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50px" alt="AngularJS"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50px" alt="AngularJS" title="AngularJS"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" alt="C" title="C"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px" alt="C++" title="C++"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50px" alt="C#" title="C#"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50px" alt="GO" title="GO"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" alt="Java" title="Java"/></td>
     </tr>
     <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" alt="React"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" alt="C"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px" alt="C++"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50px" alt="C#"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50px" alt=".NET"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" alt="Typescript"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50px" alt="Matlab" title="Matlab"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50px" alt="MongoDB" title="MongoDB"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50px" alt="MySQL" title="MySQL"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" alt="NodeJS" title="NodeJS"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px" alt="PHP" title="PHP"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" alt="React" title="React"/></td>
     </tr>
     <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50px" alt="Unity"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" alt="NodeJS"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50px" alt="VueJS"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50px" alt="MySQL"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" alt="Java"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50px" alt="Tailwind"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50px" alt="Ruby" title="Ruby"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50px" alt="Tailwind" title="Tailwind"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" alt="Typescript" title="Typescript"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50px" alt="Unity" title="Unity"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50px" alt="VueJS" title="VueJS"/></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50px" alt=".NET" title=".NET"/></td>
     </tr>
 </table>
 <hr/>
@@ -62,4 +62,4 @@
 
 <h2>You can find me at instagram, though I am a really low-profile person. Really friendly and open, nonetheless! 😋 @danilomovio</h2>
 <h1 align="center">Thank you for your visit!</h1>
-<p align="center"><img src="douma2.png" width="211" height="296" style="border-radius:30%" alt="Douma"/></p>
+<p align="center"><img src="douma2.png" width="211" height="296" style="border-radius:30%" alt="Douma" title="Douma, once again!"/></p>
