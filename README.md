@@ -26,10 +26,10 @@
         <tmain>
             <tr>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" alt="HTML5" title="HTML5" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" alt="CSS3" title="CSS3" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" alt="CSS3" title="CSS3" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" alt="HTML5" title="HTML5" />
                 </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="JavaScript" title="JavaScript" />
@@ -47,9 +47,6 @@
                 </td>
             </tr>
             <tr>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50px" height="50px" alt="MarkDown" title="MarkDown" />
-                </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50px" height="50px" alt="Lua" title="Lua" />
                 </td>
