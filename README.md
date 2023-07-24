@@ -364,4 +364,5 @@
     <h2 style="text-align: center;">You can find me at instagram, though I am a really low-profile person. Really friendly and open, nonetheless! @danilomovio</h2>
     <hr />
     <h2 align="center">Thank you for your visit!</h2>
+    <br />
 </section>
