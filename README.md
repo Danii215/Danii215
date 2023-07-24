@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 
-<header>
-    <figure align="center"><img src="me.jpg" width="335" height="335" style="border-radius:100%" alt="Drawing of myself" title="A drawing of myself, made by a special person" /></figure>
+<header align="center">
+    <figure><img style="border-radius: 100%;" src="me.jpg" width="335" height="335" alt="Drawing of myself" title="A drawing of myself, made by a special person" /></figure>
     <h1 align="center"> 🌹 Welcome to my profile! I am Danilo Movio.</h1>
 </header>
 
@@ -181,6 +181,30 @@
                 </tr>
             </tmain>
         </table>
+        <br />
+        <table border align="center">
+            <thead>
+                <tr>
+                    <th colspan="3">
+                        <h3 align="center">Operational Systems:</h3>
+                    </th>
+                </tr>
+            </thead>
+            <tmain>
+                <tr>
+                    <td>
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50px" height="50px" alt="Apple" title="Apple" />
+                    </td>
+                    <td>
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50px" height="50px" alt="Ubuntu" title="Ubuntu" />
+                    </td>
+                    <td>
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" height="50px" alt="Windows" title="Windows" />
+                    </td>
+                </tr>
+            </tmain>
+        </table>
+        <hr />
     </section>
     <section>
         <h2 align="center">Interests...</h2>
