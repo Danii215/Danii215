@@ -8,18 +8,17 @@
     <h2 align="center">About me:</h2>
     <ul>
         <li>🎓 Computer Science student at UNIP - Ribeirão Preto, São Paulo, Brazil (2022-2025).</li>
-        <li>👨‍💻 Front-End intern at <a href="https://www.okngroup.com.br/">OKN GROUP</a>.</li>
-        <li>📚 Currently focusing on web development, but my main goal is to become fullstack.</li>
+        <li>👨‍💻 Front-End developer at <a href="https://www.okngroup.com.br/">OKN GROUP</a> technology agency.</li>
+        <li>📚 Currently studying <a href="https://laravel.com/">Laravel</a>.</li>
     </ul>
 </section>
 <section>
-    <br />
     <h2 align="center">Current skills:</h2>
     <table border align="center">
         <thead>
             <tr>
-                <th colspan="3">
-                    <h3 align="center">Great Experience:</h3>
+                <th colspan="4">
+                    <h3 align="center">Experience:</h3>
                 </th>
             </tr>
         </thead>
@@ -34,50 +33,28 @@
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="JavaScript" title="JavaScript" />
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" alt="SASS/SCSS" title="SASS/SCSS" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" height="50px" alt="PHP" title="PHP" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50px" height="50px" alt="WordPress" title="WordPress" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50px" height="50px" alt="Lua" title="Lua" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" alt="Python" title="Python" />
-                </td>
-            </tr>
-        </tmain>
-    </table>
-    <br />
-    <table border align="center">
-        <thead>
-            <tr>
-                <th colspan="3">
-                    <h3 align="center">Experienced:</h3>
-                </th>
-            </tr>
-        </thead>
-        <tmain>
-            <tr>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px" alt="TypeScript" title="TypeScript" />
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" alt="React" title="React" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px" alt="NextJS" title="NextJS" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" alt="SASS/SCSS" title="SASS/SCSS" />
+                </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px" alt="Bootstrap" title="Bootstrap" />
+                </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50px" height="50px" alt="GraphQL" title="GraphQL" />
                 </td>
             </tr>
             <tr>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px" alt="NextJS" title="NextJS" />
+                </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" height="50px" alt="Vue" title="Vue" />
                 </td>
@@ -85,37 +62,43 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50px" height="50px" alt="JQuery" title="JQuery" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" alt="NodeJS" title="NodeJS" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px" alt="NodeJS" title="NodeJS" />
                 </td>
             </tr>
             <tr>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" height="50px" alt="CSharp" title="CSharp" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px" alt="Express" title="Express" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px" alt="Bootstrap" title="Bootstrap" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50px" height="50px" alt="Lua" title="Lua" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="50px" height="50px" alt="ESLint" title="ESLint" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" alt="Python" title="Python" />
+                </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" alt="Django" title="Django" />
                 </td>
             </tr>
             <tr>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="50px" alt="C" title="C" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" height="50px" alt="PHP" title="PHP" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="50px" height="50px" alt="Yarn" title="Yarn" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px" height="50px" alt="Laravel" title="Laravel" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" height="50px" alt="NPM" title="NPM" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50px" height="50px" alt="WordPress" title="WordPress" />
+                </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px" height="50px" alt="Nginx" title="Nginx" />
                 </td>
             </tr>
             <tr>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50px" height="50px" alt="Selenium" title="Selenium" />
+                </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" alt="Java" title="Java" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" height="50px" alt="Bash" title="Bash" />
                 </td>
             </tr>
         </tmain>
@@ -168,10 +151,21 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px" alt="MySQL" title="MySQL" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px" height="50px" alt="Unity" title="Unity" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50px" height="50px" alt="Webpack" title="Webpack" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50px" height="50px" alt="Blender" title="Blender" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" height="50px" alt="Bash" title="Bash" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="50px" height="50px" alt="Yarn" title="Yarn" />
+                </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" height="50px" alt="NPM" title="NPM" />
+                </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="50px" height="50px" alt="ESLint" title="ESLint" />
                 </td>
             </tr>
         </tmain>
@@ -181,29 +175,28 @@
         <thead>
             <tr>
                 <th colspan="3">
-                    <h3 align="center">Operational Systems:</h3>
+                    <h3 align="center">Operational systems that I worked with before:</h3>
                 </th>
             </tr>
         </thead>
         <tmain>
-            <tr>
+            <tr align="center">
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50px" height="50px" alt="Apple" title="Apple" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50px" height="50px" alt="Ubuntu" title="Ubuntu" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px" height="50px" alt="Ubuntu" title="Ubuntu" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" height="50px" alt="Windows" title="Windows" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50px" height="50px" alt="Windows" title="Windows" />
                 </td>
             </tr>
         </tmain>
     </table>
-    <hr />
 </section>
 <section>
     <h2 align="center">Interests...</h2>
-    <p align="center">These are the technologies that I want to study in the future. Not necessarily work with all of them, but atleast get a little bit of experience.</p>
+    <p align="center">These are the technologies that I want to study in the future.</p>
     <br />
     <table border align="center">
         <tmain>
@@ -226,13 +219,13 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50px" height="50px" alt="Dart" title="Dart" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" height="50px" alt="Django" title="Django" />
-                </td>
-                <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px" height="50px" alt="DotNetCore" title="DotNetCore" />
                 </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50px" height="50px" alt="Electron" title="Electron" />
+                </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" width="50px" height="50px" alt="Grunt" title="Grunt" />
                 </td>
             </tr>
             <tr>
@@ -240,27 +233,13 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50px" height="50px" alt="Elixir" title="Elixir" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px" alt="Express" title="Express" />
-                </td>
-                <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px" height="50px" alt="Flutter" title="Flutter" />
                 </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50px" height="50px" alt="Go" title="Go" />
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50px" height="50px" alt="GraphQL" title="GraphQL" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" width="50px" height="50px" alt="Grunt" title="Grunt" />
-                </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="50px" height="50px" alt="Gulp" title="Gulp" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50px" height="50px" alt="Godot" title="Godot" />
                 </td>
             </tr>
             <tr>
@@ -279,9 +258,6 @@
             </tr>
             <tr>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50px" height="50px" alt="Laravel" title="Laravel" />
-                </td>
-                <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="50px" height="50px" alt="Less" title="Less" />
                 </td>
                 <td>
@@ -290,11 +266,11 @@
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px" alt="MongoDB" title="MongoDB" />
                 </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="50px" height="50px" alt="Storybook" title="Storybook" />
+                </td>
             </tr>
             <tr>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px" height="50px" alt="Nginx" title="Nginx" />
-                </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50px" height="50px" alt="NuxtJS" title="NuxtJS" />
                 </td>
@@ -304,47 +280,22 @@
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50px" height="50px" alt="Redux" title="Redux" />
                 </td>
+                <td>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="50px" height="50px" alt="Xamarin" title="Xamarin" />
+                </td>
             </tr>
             <tr>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50px" height="50px" alt="Ruby" title="Ruby" />
                 </td>
                 <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" height="50px" alt="Rust" title="Rust" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50px" height="50px" alt="Selenium" title="Selenium" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50px" height="50px" alt="Rust" title="Rust" />
                 </td>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50px" height="50px" alt="SocketIO" title="SocketIO" />
                 </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" width="50px" height="50px" alt="Stylus" title="Stylus" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="50px" height="50px" alt="Svelte" title="Svelte" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="50px" height="50px" alt="Storybook" title="Storybook" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50px" height="50px" alt="ThreeJS" title="ThreeJS" />
-                </td>
-            </tr>
-            <tr>
                 <td>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50px" height="50px" alt="TomCat" title="TomCat" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50px" height="50px" alt="Unreal Engine" title="Unreal Engine" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50px" height="50px" alt="Webpack" title="Webpack" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="50px" height="50px" alt="Xamarin" title="Xamarin" />
                 </td>
             </tr>
         </tmain>
@@ -356,9 +307,8 @@
 <section>
     <h2 align="center">More about me?!</h2>
     <p style="text-align: justify;">
-    I began coding LUA at 13. I got interested in computer science and software development (hardware knowledge as well) since I was 8, and I know how to use a computer since the age of 4. I always wanted to know more about how the world itself works and how sometimes it can even be compared to how a machine interprets code, so I always liked natural physics and mathematics. I am, at my college, class representative, passionate with learning more and more about ALL sorts of stuff! 🤗</p>
+    I began coding LUA at 13. I got interested in computer science and software development (hardware knowledge as well) since I was 8, and I know how to use a computer since the age of 4. I always wanted to know more about how the world itself works and how sometimes it can even be compared to how a machine interprets code, so I always liked natural physics and mathematics. I am, at my college, class representative, passionate with learning more and more about all sorts of stuff! 🤗</p>
     <br />
-    <h2 style="text-align: center;">You can find me at instagram, though I am a really low-profile person. Really friendly and open, nonetheless! @danilomovio</h2>
-    <hr />
+    <h2 align="center">You can find me at instagram, though I am a really low-profile person. Really friendly and open, nonetheless! @danilomovio</h2>
     <h2 align="center">Thank you for your visit!</h2>
 </section>
